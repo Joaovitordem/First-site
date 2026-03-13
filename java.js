@@ -1,1 +1,1 @@
-let=n1
+let=n1(parseFloat)
